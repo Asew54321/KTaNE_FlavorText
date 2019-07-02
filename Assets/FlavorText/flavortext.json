@@ -18,6 +18,12 @@
     "text": "Let's take this to another dimension."
   },
   {
+    "name": "A Mistake",
+    "steam_id": 1756573088,
+    "module_id": "MistakeModule",
+    "text": "Somewhere deep inside, I know it may be wrong, but I'm ready to commit Mistake No. 2."
+  },
+  {
     "name": "aa",
     "steam_id": 1695885861,
     "module_id": "aa",
@@ -102,22 +108,28 @@
     "text": "I hope you studied, it's quiz night!"
   },
   {
-    "name": "Baba Is Who?",
-    "steam_id": 1740805891,
-    "module_id": "babaIsWho",
-    "text": "Hey, I've heard of this game."
-  },
-  {
     "name": "Astrology",
     "steam_id": 745341328,
     "module_id": "spwizAstrology",
     "text": "Sometimes, the stars have it out for you. Is this bomb a good or a poor omen?"
   },
   {
+    "name": "Baba Is Who?",
+    "steam_id": 1740805891,
+    "module_id": "babaIsWho",
+    "text": "Hey, I've heard of this game."
+  },
+  {
     "name": "Backgrounds",
     "steam_id": 1286383144,
     "module_id": "Backgrounds",
     "text": "For once you aren't only focusing on what's right in front of you. Make sure you pay attention to what's going on behind the scenes here. We all know how you feel about exploding."
+  },
+  {
+    "name": "Bamboozling Button",
+    "steam_id": 1749505715,
+    "module_id": "bamboozlingButton",
+    "text": "\"Wait, was that the letter Yankee or the word Y?\" -You, probably"
   },
   {
     "name": "Bartending",
@@ -204,10 +216,22 @@
     "text": "Not only do you have to find the exit, you have to find the beginning!"
   },
   {
+    "name": "The Block",
+    "steam_id": 1749051896,
+    "module_id": "theBlock",
+    "text": "It’s a Cube! Oh no, it’s a Block. At least this one doesn’t move!"
+  },
+  {
     "name": "Blockbusters",
     "steam_id": 1558199912,
     "module_id": "blockbusters",
     "text": "\"Can I have a 'P' please (Lit) BOB?\""
+  },
+  {
+    "name": "Blue Arrows",
+    "steam_id": 1762883309,
+    "module_id": "blueArrowsModule",
+    "text": "Like a guide, pointing at the completely wrong thing."
   },
   {
     "name": "Boggle",
@@ -226,6 +250,12 @@
     "steam_id": 952882149,
     "module_id": "booleanVennModule",
     "text": "Why is there a big Venn diagram? Why are there some weird symbols? Oh no..."
+  },
+  {
+    "name": "Bordered Keys",
+    "steam_id": 1773305524,
+    "module_id": "borderedKeys",
+    "text": "These keys look a little different. Did they lose weight?"
   },
   {
     "name": "Braille",
@@ -280,6 +310,12 @@
     "steam_id": 0,
     "module_id": "BigButton",
     "text": "You might think that a button telling you to press it is pretty straightforward. That's the kind of thinking that gets people exploded."
+  },
+  {
+    "name": "Button Grid",
+    "steam_id": 1767299598,
+    "module_id": "buttonGrid",
+    "text": "\"This isn’t as hard as it looks...\""
   },
   {
     "name": "Button Masher",
@@ -376,12 +412,6 @@
     "steam_id": 1355440777,
     "module_id": "Color Decoding",
     "text": "The colors, Simon; what do they mean!?"
-  },
-  {
-    "name": "Colored Keys",
-    "steam_id": 1673910132,
-    "module_id": "lgndColoredKeys",
-    "text": "Who painted this keypad?"
   },
   {
     "name": "Colored Keys",
@@ -576,6 +606,24 @@
     "text": "I swear it didn't look like this last time I saw it."
   },
   {
+    "name": "Daylight Directions",
+    "steam_id": 1743335011,
+    "module_id": "daylightDirections",
+    "text": "A beautiful sunset sets the mood perfectly for defusing a bomb."
+  },
+  {
+    "name": "The Dealmaker",
+    "steam_id": 1774369328,
+    "module_id": "thedealmaker",
+    "text": "Capitalism rules the world, and apparently this bomb too?"
+  },
+  {
+    "name": "The Deck of Many Things",
+    "steam_id": 1785189166,
+    "module_id": "deckOfManyThings",
+    "text": "A traveller's journal in the form of a game."
+  },
+  {
     "name": "Decolored Squares",
     "steam_id": 805590147,
     "module_id": "DecoloredSquaresModule",
@@ -684,10 +732,22 @@
     "text": "Math is easy. But is it easy when the numbers are in another language? Let's find out."
   },
   {
+    "name": "Encrypted Equations",
+    "steam_id": 1758398098,
+    "module_id": "EncryptedEquationsModule",
+    "text": "The module everyone hated the moment they saw what an \"equation\" looked like."
+  },
+  {
     "name": "Encrypted Morse",
     "steam_id": 1558568014,
     "module_id": "EncryptedMorse",
     "text": "Oh nice, a Morse module! Wait, what does HNWLIREAKHI mean?"
+  },
+  {
+    "name": "Encrypted Values",
+    "steam_id": 1758398098,
+    "module_id": "EncryptedValuesModule",
+    "text": "Welcome to pain. The sequel. Starring a slightly more tolerable version of the other thing."
   },
   {
     "name": "English Test",
@@ -774,6 +834,12 @@
     "text": "What's this game called? Ok, let's do that."
   },
   {
+    "name": "Find the Date",
+    "steam_id": 1768537189,
+    "module_id": "DateFinder",
+    "text": "Have you ever wondered what day was December 25, 1862? Or if the 27th of June, 2491 is gonna be a Friday or a Saturday? Yeah, me neither..."
+  },
+  {
     "name": "FizzBuzz",
     "steam_id": 1659583568,
     "module_id": "fizzBuzzModule",
@@ -834,10 +900,22 @@
     "text": "I'm not sure what this is, and at this point I'm too afraid to ask."
   },
   {
+    "name": "Forget Infinity",
+    "steam_id": 1759215337,
+    "module_id": "forgetInfinity",
+    "text": "What did this module do again? I forgot."
+  },
+  {
     "name": "Forget Me Not",
     "steam_id": 743198269,
     "module_id": "MemoryV2",
     "text": "This one likes attention, but not too much attention."
+  },
+  {
+    "name": "Forget Them All",
+    "steam_id": 1760215002,
+    "module_id": "forgetThemAll",
+    "text": "Remembering where you’ve been sure helps figuring out where you’re going to."
   },
   {
     "name": "Forget This",
@@ -922,6 +1000,12 @@
     "steam_id": 1398997901,
     "module_id": "greekCalculus",
     "text": "The bomb makers are clever. Either the bomb explodes, or they get the answers to their calculus problems. Make your choice. Also, they like Greek letters. Good luck!"
+  },
+  {
+    "name": "Green Arrows",
+    "steam_id": 1757173794,
+    "module_id": "greenArrowsModule",
+    "text": "What's the point?"
   },
   {
     "name": "Gridlock",
@@ -1038,6 +1122,12 @@
     "text": "Are you the hunter? Or are you the hunted?"
   },
   {
+    "name": "Hyperactive Numbers",
+    "steam_id": 1764436638,
+    "module_id": "lgndHyperactiveNumbers",
+    "text": "The numbers, Mason! What do they mean??"
+  },
+  {
     "name": "The Hypercube",
     "steam_id": 1667658195,
     "module_id": "TheHypercubeModule",
@@ -1060,6 +1150,12 @@
     "steam_id": 1558709841,
     "module_id": "qSwedishMaze",
     "text": "I came in for a table, and left with a lamp, a mattress, and a bomb..."
+  },
+  {
+    "name": "Insane Talk",
+    "steam_id": 1751515230,
+    "module_id": "insanetalk",
+    "text": "The actual Regular Crazy Talk."
   },
   {
     "name": "Instructions",
@@ -1302,6 +1398,12 @@
     "text": "Math is still easy. But is it easy when you have to answer questions over and over to stop an explosion? Only one way to find out."
   },
   {
+    "name": "The Matrix",
+    "steam_id": 1770961836,
+    "module_id": "matrix",
+    "text": "Free your mind..."
+  },
+  {
     "name": "Maze",
     "steam_id": 0,
     "module_id": "Maze",
@@ -1366,6 +1468,12 @@
     "steam_id": 945682169,
     "module_id": "MinesweeperModule",
     "text": "Somehow Minesweeper on a bomb feels oddly redundant."
+  },
+  {
+    "name": "Misordered Keys",
+    "steam_id": 1769799954,
+    "module_id": "misorderedKeys",
+    "text": "Another one? Another one."
   },
   {
     "name": "Modern Cipher",
@@ -1548,6 +1656,18 @@
     "text": "Greek letters are too pretentious, so we use Egyptian hieroglyphs."
   },
   {
+    "name": "Orange Arrows",
+    "steam_id": 1764738710,
+    "module_id": "orangeArrowsModule",
+    "text": "Multiple points... Many, many points."
+  },
+  {
+    "name": "Ordered Keys",
+    "steam_id": 1761184598,
+    "module_id": "orderedKeys",
+    "text": "No. This is not a glockenspiel."
+  },
+  {
     "name": "Orientation Cube",
     "steam_id": 744171602,
     "module_id": "OrientationCube",
@@ -1698,6 +1818,12 @@
     "text": "Imagine if you died while disarming a purgatory module, hehe... I'm going to hell for that one."
   },
   {
+    "name": "Purple Arrows",
+    "steam_id": 1772301425,
+    "module_id": "purpleArrowsModule",
+    "text": "Word Points!"
+  },
+  {
     "name": "QR Code",
     "steam_id": 1078276453,
     "module_id": "QRCode",
@@ -1746,6 +1872,18 @@
     "text": "This module really pushes my buttons. Then again, most are designed to."
   },
   {
+    "name": "Recorded Keys",
+    "steam_id": 1781014963,
+    "module_id": "recordedKeys",
+    "text": "No. This is not Recordered Keys. This is a glockenspiel."
+  },
+  {
+    "name": "Red Arrows",
+    "steam_id": 1757530392,
+    "module_id": "redArrowsModule",
+    "text": "I think you get the point now."
+  },
+  {
     "name": "Refill that Beer!",
     "steam_id": 1143527507,
     "module_id": "NeedyBeer",
@@ -1756,6 +1894,12 @@
     "steam_id": 1606172045,
     "module_id": "RegularCrazyTalkModule",
     "text": "It says: You're breaking up. ... No, that's what it says. You're breaking u-- What?... You're breaking up with your girlfriend?!"
+  },
+  {
+    "name": "Reordered Keys",
+    "steam_id": 1766773083,
+    "module_id": "reorderedKeys",
+    "text": "Seeing triple now, are we?"
   },
   {
     "name": "Resistors",
@@ -1780,6 +1924,12 @@
     "steam_id": 877905209,
     "module_id": "MusicRhythms",
     "text": "Have you ever taken a music theory class where you had to count and clap rhythms? This is just like that, only here your suffering _ends_ when you get it wrong."
+  },
+  {
+    "name": "Risky Wires",
+    "steam_id": 1743337361,
+    "module_id": "riskyWires",
+    "text": "Gambling problem? Call 1-800-GAMBLER"
   },
   {
     "name": "Rock-Paper-Scissors-L.-Sp.",
@@ -1858,6 +2008,12 @@
     "steam_id": 1143024969,
     "module_id": "SetModule",
     "text": "Modules based on card games seem to be a thing now."
+  },
+  {
+    "name": "Seven Deadly Sins",
+    "steam_id": 1777707662,
+    "module_id": "sevenDeadlySins",
+    "text": "This is surprisingly fitting for a bomb to be perfectly honest.
   },
   {
     "name": "Seven Wires",
@@ -1968,6 +2124,24 @@
     "text": "Meet Simon's needy second cousin. He's also called Simon."
   },
   {
+    "name": "Simon States",
+    "steam_id": 743198269,
+    "module_id": "SimonV2",
+    "text": "I'm not sure this even qualifies as Simon Says..."
+  },
+  {
+    "name": "Simon Stops",
+    "steam_id": 1734643179,
+    "module_id": "simonStops",
+    "text": "If you don't hear something, think quick, or you might be hearing something real loud real soon..."
+  },
+  {
+    "name": "Simon Stores",
+    "steam_id": 1742229763,
+    "module_id": "simonStores",
+    "text": "Calculators at the ready..."
+  },
+  {
     "name": "Simon's Sequence",
     "steam_id": 1630874003,
     "module_id": "simonsSequence",
@@ -1984,18 +2158,6 @@
     "steam_id": 1422986509,
     "module_id": "simonsStar",
     "text": "Simon has given up on doing stuff and started possessing stuff instead."
-  },
-  {
-    "name": "Simon States",
-    "steam_id": 743198269,
-    "module_id": "SimonV2",
-    "text": "I'm not sure this even qualifies as Simon Says..."
-  },
-  {
-    "name": "Simon Stops",
-    "steam_id": 1734643179,
-    "module_id": "simonStops",
-    "text": "If you don't hear something, think quick, or you might be hearing something real loud real soon..."
   },
   {
     "name": "Sink",
@@ -2088,6 +2250,12 @@
     "text": "All these cubes, and I have to do what with them? Stack them? Where are they even coming from..."
   },
   {
+    "name": "Stained Glass",
+    "steam_id": 1747911841,
+    "module_id": "stainedGlass",
+    "text": "They're ancient, irreplaceable stained glass windows you absolute vandal!"
+  },
+  {
     "name": "The Stare",
     "steam_id": 1663359310,
     "module_id": "StareModule",
@@ -2110,6 +2278,12 @@
     "steam_id": 1593503353,
     "module_id": "streetFighter",
     "text": "Hadouken!"
+  },
+  {
+    "name": "Sticky Notes",
+    "steam_id": 1763550522,
+    "module_id": "stickyNotes",
+    "text": "Oh, another day at work, Which job did I need to do first? OH MY GOD, WHERE DID ALL THESE STICKY NOTES COME FROM!?"
   },
   {
     "name": "Subscribe to Pewdiepie",
@@ -2274,10 +2448,10 @@
     "text": "Nobody likes to convert timezones."
   },
   {
-    "name": "Timing Is Everything",
-    "steam_id": 1666226855,
-    "module_id": "timingIsEverything",
-    "text": "1... 2... 3... go!"
+    "name": "Transmitted Morse",
+    "steam_id": 1251328795,
+    "module_id": "transmittedMorseModule",
+    "text": "There’s too many modules with Morse code given through sight anyways..."
   },
   {
     "name": "The Triangle",
@@ -2290,6 +2464,12 @@
     "steam_id": 1709847654,
     "module_id": "theTriangleButton",
     "text": "This may seem like acute module, but that's not right. In fact, such a presumption is quite obtuse."
+  },
+  {
+    "name": "Triangle Buttons",
+    "steam_id": 1743336819,
+    "module_id": "triangleButtons",
+    "text": "I thought I just saw the answer...where did it go?"
   },
   {
     "name": "The Troll",
@@ -2328,6 +2508,12 @@
     "text": "Troublesome terms to tell the trained team-member."
   },
   {
+    "name": "The Ultracube",
+    "steam_id": 1779853069,
+    "module_id": "TheUltracubeModule",
+    "text": "Oh I know this one! Wait, it looks different... Why are there more lines now?"
+  },
+  {
     "name": "Uncolored Squares",
     "steam_id": 805590147,
     "module_id": "UncoloredSquaresModule",
@@ -2338,6 +2524,12 @@
     "steam_id": 1632675253,
     "module_id": "unfairCipher",
     "text": "It doesn't play that fair anymore."
+  },
+   {
+    "name": "Unordered Keys",
+    "steam_id": 1763726416,
+    "module_id": "unorderedKeys",
+    "text": "No. This is not Ordered Keys."
   },
   {
     "name": "Unrelated Anagrams",
@@ -2488,6 +2680,12 @@
     "steam_id": 961870485,
     "module_id": "YahtzeeModule",
     "text": "When has bomb defusal ever been a game of chance?"
+  },
+  {
+    "name": "Yellow Arrows",
+    "steam_id": 1758405750,
+    "module_id": "yellowArrowsModule",
+    "text": "Points!"
   },
   {
     "name": "Zoni",
